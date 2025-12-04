@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Main branch update
+=======
+Line from feature
+>>>>>>> 089e93f (Add feature line)
